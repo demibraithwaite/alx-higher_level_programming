@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import upp_alpha
+import upp_alpa
